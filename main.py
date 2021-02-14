@@ -1,3 +1,4 @@
+# Priyadarshan
 import webbrowser
 
 from tkinter import *
@@ -216,7 +217,7 @@ class Notepad(Tk):
             self.text_area.config(font=new_font)
 
     def about_notepad_clone(self):
-        webbrowser.open("https://github.com/Priyadarshan2000/NOTEPAD-CLONE")
+        webbrowser.open("https://github.com/Priyadarshan2000/Notepad-Clone-Using-Python")
 
     def exit_notepad(self, event):
         self.quit()
